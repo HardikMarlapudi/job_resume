@@ -1,0 +1,40 @@
+
+body {
+    -ms-flex-align: baseline;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+li {
+    padding: 20px;
+}
+
+p {
+   text-align: center;
+
+}
+
+.education{
+    color: #8b0000;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+li {
+    
+}
+
+footer {
+    display: block;
+    background-color: gray;
+}
